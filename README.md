@@ -1,7 +1,7 @@
 ### Hey there 👋. I'm Shafyl Choudhury :superhero:.
 #### I'm a First-Class Computing BSc Graduate :mortar_board:, currently enrolled on a Code Institute's Coding Bootcamp 	:computer:.
 ![I'm a First-Class Computing BSc Graduate, currently enrolled on a Code Institute's Coding Bootcamp.](https://pbs.twimg.com/profile_banners/1287120904103829505/1600605491/1500x500)
-
+## About Me
 After completion of my bachelor's degree, I've decided to enrol on a coding bootcamp to further expand on my programming skills. 
 
 The curriculum of the coding bootcamp includes languages & frameworks such as JavaScript, Python, Django, Flask and databases of SQL and NoSQL.
@@ -14,6 +14,6 @@ The curriculum of the coding bootcamp includes languages & frameworks such as Ja
 Skills: HTML / CSS / BOOTSTRAP / JS / PYTHON / DJANGO /SQL / NOSQL
 
 
-
+## Connect With Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaf951753//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ShafylCodes)  
 
