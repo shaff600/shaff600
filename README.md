@@ -1,5 +1,5 @@
-### Hi there 👋, Shafyl Choudhury
-#### I'm a First-Class Computing BSc Graduate, currently enrolled on a Code Institute's Coding Bootcamp.
+### Hey there 👋. I'm Shafyl Choudhury :superhero:.
+#### I'm a First-Class Computing BSc Graduate :mortar_board:, currently enrolled on a Code Institute's Coding Bootcamp 	:computer:.
 ![I'm a First-Class Computing BSc Graduate, currently enrolled on a Code Institute's Coding Bootcamp.](https://pbs.twimg.com/profile_banners/1287120904103829505/1600605491/1500x500)
 
 After completion of my bachelor's degree, I've decided to enrol on a coding bootcamp to further expand on my programming skills. 
