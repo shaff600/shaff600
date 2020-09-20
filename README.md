@@ -3,7 +3,7 @@
 
 
 ## About Me :man_technologist: :
-*I'm a First-Class Computing BSc Graduate :mortar_board:, currently enrolled on Code Institute's Coding Bootcamp* 	:computer:. After completion of my bachelor's degree, I've decided to enrol on a coding bootcamp to further expand on my programming skills. 
+*I'm a First-Class Computing BSc Graduate :mortar_board:, currently enrolled on Code Institute's Coding Bootcamp* 	:computer:. After completion of my bachelor's degree, I've decided to enrol on a remote coding bootcamp to further expand on my programming skills. 
 
 ## Code Institute's Curriculum :books: :
 
