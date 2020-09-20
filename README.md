@@ -6,8 +6,8 @@ After completion of my bachelor's degree, I've decided to enrol on a coding boot
 
 The curriculum of the coding bootcamp includes languages & frameworks such as JavaScript, Python, Django, Flask and databases of SQL and NoSQL.
 
-##Current Skills and Projects
-* HTML, CSS, JavaScript -  https://github.com/shaff600/FrontEndWebDevWebsite - Acheived 92% on university assignment
+## Current Skills and Projects
+* HTML, CSS, JavaScript -  https://github.com/shaff600/FrontEndWebDevWebsite - Static website. Acheived 92% on university assignment
 * HTML, CSS, BootStrap, JavaScript, PHP, MySQL -https://github.com/shaff600/StockSystemPHP - Final Year Project. CRUD application with implmentation of access levels. Acheived overall 77%.
 
 
