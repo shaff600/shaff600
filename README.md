@@ -16,6 +16,8 @@ The bootcamp offers a global recognized Diploma in Software Development which is
 ![alt text](https://github.com/shaff600/shaff600/blob/master/Screenshot%202020-09-20%20at%2017.18.20.png)
 
 * HTML, CSS, BootStrap, JavaScript, PHP, MySQL -https://github.com/shaff600/StockSystemPHP - Final Year Project. CRUD application with implmentation of access levels. Acheived overall 77%.
+![alt text](https://github.com/shaff600/shaff600/blob/master/Screenshot%202020-09-20%20at%2017.22.32.png)
+
 
 
 ## Languages and Tools :gear: : 
