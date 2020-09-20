@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Shafyl Choudhury
+#### I'm a First-Class Computing BSc Graduate, currently enrolled on a Code Institute's Coding Bootcamp.
+![I'm a First-Class Computing BSc Graduate, currently enrolled on a Code Institute's Coding Bootcamp.](https://pbs.twimg.com/profile_banners/1287120904103829505/1600605491/1500x500)
 
-<!--
-**shaff600/shaff600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After completion of my bachelor's degree, I've decided to enrol on a coding bootcamp to further expand on my programming skills. 
 
-Here are some ideas to get you started:
+The curriculum of the coding bootcamp includes languages & frameworks such as HTML, CSS, Bootstrap, JavaScript, Python, Django and databases of SQL and NoSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML / CSS / BOOTSTRAP / JS / PYTHON / DJANGO /SQL / NOSQL
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaf951753//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ShafylCodes)  
+
