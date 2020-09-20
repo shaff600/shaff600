@@ -12,7 +12,7 @@ The curriculum of the coding bootcamp includes languages & frameworks such as HT
 The bootcamp offers a global recognized Diploma in Software Development which is credit-rated by Edinburgh Napier University. This is an award on the SCQF and EQF.
 
 ## Current Skills and Projects :computer: :
-* HTML, CSS, JavaScript -  https://github.com/shaff600/FrontEndWebDevWebsite - Static website. Acheived 92% on university assignment
+* HTML, CSS, JavaScript -  https://github.com/shaff600/FrontEndWebDevWebsite - Static website. Acheived 93% on university assignment
 * HTML, CSS, BootStrap, JavaScript, PHP, MySQL -https://github.com/shaff600/StockSystemPHP - Final Year Project. CRUD application with implmentation of access levels. Acheived overall 77%.
 
 
