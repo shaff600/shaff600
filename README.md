@@ -32,8 +32,7 @@ The bootcamp offers a global recognized Diploma in Software Development which is
 ## Connect With Me :electric_plug: :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaf951753//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ShafylCodes) 
 ## *Profile Counter*:
-> Blockquote
-![Visitor Count](https://profile-counter.glitch.me/{shaff600}/count.svg)
+> ![Visitor Count](https://profile-counter.glitch.me/{shaff600}/count.svg)
 
 
 
