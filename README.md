@@ -16,7 +16,7 @@ The bootcamp offers a global recognized Diploma in Software Development which is
 * HTML, CSS, BootStrap, JavaScript, PHP, MySQL -https://github.com/shaff600/StockSystemPHP - Final Year Project. CRUD application with implmentation of access levels. Acheived overall 77%.
 
 
-### Languages and Tools :gear: : 
+## Languages and Tools :gear: : 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -29,9 +29,10 @@ The bootcamp offers a global recognized Diploma in Software Development which is
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="mongodb" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> <br>
 
-### Connect With Me :electric_plug: :
+## Connect With Me :electric_plug: :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaf951753//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ShafylCodes) 
-#### *Profile Counter*:
+## *Profile Counter*:
+> Blockquote
 ![Visitor Count](https://profile-counter.glitch.me/{shaff600}/count.svg)
 
 
