@@ -1,6 +1,4 @@
-### Hey there 👋. I'm Shafyl Choudhury :superhero:. 
-![I'm a First-Class Computing BSc Graduate, currently enrolled on a Code Institute's Coding Bootcamp.]
-
+### Hey there 👋. I'm Shaff :superhero:. 
 
 ## About Me :man_technologist: :
 *I'm a First-Class Computing BSc Graduate :mortar_board:, currently enrolled on Code Institute's Coding Bootcamp* 	:computer:. After completion of my bachelor's degree, I've decided to enrol on a remote coding bootcamp to further expand on my programming skills whilst being a graduate IT consultant at REPL Group, Part of Accenture. 
